@@ -81,6 +81,7 @@ Where:
 * h2 = Destination host
 * s1, s5 = Edge switches
 * s2, s3, s4 = Intermediate switches
+
 ![Topology](topo.png)
 ---
 
